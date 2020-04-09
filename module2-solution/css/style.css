@@ -1,0 +1,115 @@
+
+@media (min-width:992px) {
+    
+/*
+    header {
+        background: red;
+    }
+*/
+    
+header
+{
+    color:#000000;
+    text-align:center;
+    font-family: cursive;
+    font-weight: 900;
+    font-size:40px;
+    padding-top:80px;
+    margin-bottom:50px;
+    background: green;
+}
+p
+{
+    padding: 30px 5px 5px 10px;
+    font-family:cursive;
+    font-weight:500;
+}
+ .f
+{
+    height:165;
+    width:370px;
+    float:left;
+    border:2px solid #000000; 
+    margin:80px 0px 0px 100px;
+    background-color: #b4b4b4;
+}             
+.f h4
+{
+    font-family:cursive;
+    position: relative;
+    float:right;
+    font-weight: 500;
+    color:#000000;
+    border:1px solid #000000;
+    margin:0;
+    background-color: hotpink;
+    padding:1px 30px 1px 30px; 
+}
+ .sec
+{
+    height:165;
+    width:370px;
+    float:left;
+    border:2px solid #000000; 
+    margin:80px 0px 0px 20px;
+    background-color: #b4b4b4
+}
+.sec h4
+{
+    font-family:cursive;
+    position: relative;
+    float:right;
+    font-weight: 500;
+    color:#000000;
+    border:1px solid #000000;
+    margin:0;
+    padding:1px 30px 1px 30px;
+    background-color: gold; 
+}
+.third
+{
+    height:165;
+    width:370px;
+    float:left;
+    border:2px solid #000000;
+    margin:80px 0px 0px 20px;
+    overflow:auto;
+    background-color: #b4b4b4
+}
+.third h4 
+{
+    font-family:cursive;
+    position: relative;
+    float:right;
+    font-weight: 500;
+    color:#000000;
+    border:1px solid #000000;
+    margin:0;
+    padding:1px 30px 1px 30px;
+    background-color:#2ecc71; 
+}
+
+
+    
+}
+
+
+@media (max-width:767px) {
+    
+    header {
+        background: blue;
+    }
+    
+}
+
+
+
+/*
+@media (max-width:767px) {
+
+    header {
+        background: blue;
+    }
+}
+*/
+
